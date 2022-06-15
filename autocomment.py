@@ -1,3 +1,4 @@
+#first install pyautogui on windows
 import pyautogui
 from time import sleep
 from random import randint
